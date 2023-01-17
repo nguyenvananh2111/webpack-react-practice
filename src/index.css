@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('./fonts/Montserrat.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.bgColor {
+  background-color: aquamarine;
+}
